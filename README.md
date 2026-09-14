@@ -1,4 +1,4 @@
-# Poison UTXO — Privacy Risk Scanner
+# SatoshiTrace
 
 Real on-chain heuristics for BOSS Battle's **Privacy** track. Same clustering
 engine behind Poison UTXO (SIH), reframed: instead of attributing an unhosted
